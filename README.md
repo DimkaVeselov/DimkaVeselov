@@ -14,7 +14,9 @@
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 
 ### 📫 Contact Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/dmitry-privezentcev?trk=contact-info))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitry-privezentcev?trk=contact-info)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dv.privezencev@mail.ru)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ghostman88)
 
 ### 🚀 Achievements:
 ![GitHub Stars](https://img.shields.io/github/stars/DimkaVeselov?style=for-the-badge)
@@ -25,5 +27,3 @@
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=DimkaVeselov&layout=compact">
   <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimkaVeselov&layout=compact" alt="state"/>
 </a>
-
-
