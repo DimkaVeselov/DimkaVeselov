@@ -20,11 +20,7 @@
 </a>
 
 ### 📫 Contact Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
-
-### 🔧 Projects:
-- [Project 1](https://github.com/DimkaVeselov/project-1): Brief description of Project 1.
-- [Project 2](https://github.com/DimkaVeselov/project-2): Brief description of Project 2.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/dmitry-privezentcev?trk=contact-info))
 
 ### 🚀 Achievements:
 ![GitHub Stars](https://img.shields.io/github/stars/DimkaVeselov?style=for-the-badge)
