@@ -26,6 +26,4 @@
 
 ### 🏆 My Stats:
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=DimkaVeselov&layout=compact">
-  <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimkaVeselov&layout=compact" alt="state"/>
-</a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
