@@ -18,12 +18,11 @@
 ### 📫 Contact Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitry-privezentcev?trk=contact-info)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dv.privezencev@mail.ru)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@Ghost_Semenovich)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@Ghostman_Vitalievich)
 
 ### 🚀 Achievements:
 ![GitHub Stars](https://img.shields.io/github/stars/DimkaVeselov?style=for-the-badge)
 ![GitHub Followers](https://img.shields.io/github/followers/DimkaVeselov?style=for-the-badge)
 
 ### 🏆 My Stats:
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DimkaVeselov)](https://github.com/DimkaVeselov/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DimkaVeselov&show_icons=true&theme=radical)
