@@ -32,4 +32,4 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DimkaVeselov&theme=dark)](https://git.io/streak-stats)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DimkaVeselov&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DimkaVeselov&theme=solarized_dark)
