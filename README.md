@@ -1,5 +1,5 @@
 ###
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Dmitrii+Privezentsev)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+,+I'm+Dmitry.)](https://git.io/typing-svg)
 ### 🔨 Skills:
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
