@@ -1,5 +1,5 @@
 ###
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Dmitrii+Privezencev)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Dmitrii+Privezentsev)](https://git.io/typing-svg)
 
 ### 🔨 Skills:
 
@@ -31,4 +31,8 @@
 
 ### 🏆 My Stats:
 
-[[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DimkaVeselov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)](https://profile-summary-for-github.com/user/DimkaVeselov)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DimkaVeselov)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DimkaVeselov)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DimkaVeselov&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&border_color=ff0000)](https://github.com/ashutosh00710/github-readme-activity-graph)
