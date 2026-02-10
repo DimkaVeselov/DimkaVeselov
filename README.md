@@ -25,4 +25,4 @@
 ![GitHub Followers](https://img.shields.io/github/followers/DimkaVeselov?style=for-the-badge)
 
 ### 🏆 My Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DimkaVeselov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DimkaVeselov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)](https://profile-summary-for-github.com/user/DimkaVeselov)
