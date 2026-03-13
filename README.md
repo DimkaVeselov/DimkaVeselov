@@ -23,11 +23,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dv.privezencev@mail.ru)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@Ghostman_Vitalievich)
 
-### 🚀 Achievements:
-
-![GitHub Stars](https://img.shields.io/github/stars/DimkaVeselov?style=for-the-badge)
-![GitHub Followers](https://img.shields.io/github/followers/DimkaVeselov?style=for-the-badge)
-
 ### 🏆 My Stats:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DimkaVeselov&theme=dark)](https://git.io/streak-stats)
