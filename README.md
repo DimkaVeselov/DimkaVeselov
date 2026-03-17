@@ -29,4 +29,4 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DimkaVeselov&theme=solarized_dark)
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=DimkaVeselov&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DimkaVeselov&layout=compact)
