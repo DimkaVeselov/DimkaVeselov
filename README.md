@@ -27,4 +27,4 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DimkaVeselov&theme=dark)](https://git.io/streak-stats)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DimkaVeselov&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DimkaVeselov&layout=compact&show_icons=true&theme=dark)
